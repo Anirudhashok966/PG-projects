@@ -1,1 +1,1 @@
-Some PG code-projects I've worked on.
+Some PG projects I've worked on.
